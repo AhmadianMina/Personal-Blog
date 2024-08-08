@@ -1,0 +1,8 @@
+header
+Main
+    home
+    about
+    skill
+    portfolio
+    contact
+footer
