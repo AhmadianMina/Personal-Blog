@@ -3,6 +3,8 @@ Main
     home
     about
     skill
+    education   &    experience
+    
     portfolio
     contact
 footer
